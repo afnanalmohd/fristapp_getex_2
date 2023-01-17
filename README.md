@@ -1,4 +1,4 @@
-# First Application in GetX.
+# First Application in GetX by using GetX.
 The Counter in first application in GetX in Flutter . just increment and decrement the number.
 
 ## Photo:
